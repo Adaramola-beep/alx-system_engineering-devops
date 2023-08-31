@@ -1,2 +1,2 @@
 #!/bin/bash
-chown
+sudo cho betty hello
